@@ -8,7 +8,9 @@ This project explores deep learning approaches for time series forecasting using
 
 The objective of this project is to:
 - Forecast hourly/daily bike rental demand
-- Compare the performance of RNN LSTM and GRU architectures, along with their modified version (hidden layer modifications and hyperparameters tuning)
+- Compare the performance of RNN LSTM and GRU architectures
+- Evaluate modified architectures through hidden layer adjustments and hyperparameter tuning
+- Identify optimal model configurations through iterative tuning experiments
 - Analyze temporal patterns in rental behavior
 
 
